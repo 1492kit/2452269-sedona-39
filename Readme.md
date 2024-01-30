@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Kirill Jimenez](https://up.htmlacademy.ru/htmlcss/39/user/2452269).
-* Наставник: `Неизвестно`.
+* Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/ankhena).
 
 ---
 
