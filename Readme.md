@@ -2,6 +2,7 @@
 
 * Студент: [Kirill Jimenez](https://up.htmlacademy.ru/htmlcss/39/user/2452269).
 * Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/ankhena).
+* Сайт: [Мой проект](https://1492kit.github.io/2452269-sedona-39/).
 
 ---
 
